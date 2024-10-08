@@ -11,6 +11,6 @@
 * Igp![Igp](https://github.com/JWSmithCS/JWSmith-Profile/blob/main/download%20(1).jpg)
 * code bullet
 
- |Falloutboy|AJR-|PoorManspoison|imagindragons|
+ |Falloutboy|AJR |PoorManspoison|imagindragons|
  |----------|----|--------------|-------------|
- |phonix----|Weak|providence----|radioactive--|
+ |phonix    |Weak|providence    |radioactive  |
